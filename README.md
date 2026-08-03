@@ -1,2 +1,0 @@
-# dragonvape
-Сайт магазина DragonVape
